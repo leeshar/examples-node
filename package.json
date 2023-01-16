@@ -1,0 +1,17 @@
+{
+  "name": "examples-node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Modify .env with your private key and constants.js with your account name, etc",
+  "main": "index.js",
+  "dependencies": {
+    "@proton/js": "^25.0.28",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
